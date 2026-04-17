@@ -1,0 +1,4 @@
+i: int = 0
+while i < 174683:
+    print(i)
+    i += 1

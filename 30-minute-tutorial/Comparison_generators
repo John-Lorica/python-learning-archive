@@ -1,0 +1,7 @@
+a: int = 65
+b: int = 74
+
+print(a < b)
+print(a <= b)
+print(a == b)
+print(a != b)

@@ -1,0 +1,8 @@
+import math
+import math as m
+from math import sqrt, tan
+
+print(math.sqrt(67))
+print(m.sqrt(73))
+print(sqrt(932))
+print(tan(693))

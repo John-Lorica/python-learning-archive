@@ -1,0 +1,11 @@
+course = '   python Programming  '
+print(course.upper())
+print(course.lower())
+print(course.title())
+print(course.strip())
+print(course.lstrip())
+print(course.rstrip())
+print(course.find('ram'))
+print(course.replace('p', 'B'))
+print('pro' in course)
+print('ski' not in course)
