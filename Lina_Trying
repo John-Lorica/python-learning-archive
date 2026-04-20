@@ -1,0 +1,7 @@
+name = 'Lina'
+age = 10 + 7
+print("Kid named " + name + " is the kid that is " + str(age) + " years old!")
+
+name_2 = "Karol"
+age_2 = "young"
+print("The name of the kid is " + name_2 + " and she is just so " + str(age_2) + "!")
